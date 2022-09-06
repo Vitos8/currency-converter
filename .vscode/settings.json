@@ -1,0 +1,9 @@
+{
+     "editor.tabSize": 5,
+     "files.autoSave": "afterDelay",
+     "editor.renderWhitespace": "selection",
+     "editor.cursorStyle": "line",
+     "editor.insertSpaces": false,
+     "editor.autoIndent": "full",
+     "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
